@@ -22,7 +22,7 @@ ADMINS.append(5606411877)
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001716170358")) 
 
 # For Force Subscription
-UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "vj_bots")
+UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "VJLinkOfficial")
 
 # true if forward should be avoided
 BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "True")
